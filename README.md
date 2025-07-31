@@ -4,11 +4,11 @@ Moi c'est Yannaël. Je suis Data Analyst, aspirant Data Scientist, passionné de
 
 J'ai d'ailleurs réalisé en 2022 mon mémoire sur l'Impact de l'IA sur la performance des Entreprises disponible dans la liste des projets si cela vous intéresse.
 
-C'est donc tout naturellement que j'ai choisi de me spécialiser dans la data d'abord en tant que Data Analyst, puis en tant que Data Scientist.
+C'est donc tout naturellement que j'ai choisi de me spécialiser dans la manipulation et la visualisation des données d'abord en tant que Data Analyst, puis en tant que Data Scientist.
 
 ---
 
-## Voici ce que je fais :
+## Voici ce que je peux apporter :
 
 - 🧠 Je collecte, nettoie et importe des base de données de travail.
 - 📊 J’analyse des données complexes pour en tirer des insights utiles à la prise de décision à travers des tableaux de bord épurés.
