@@ -8,14 +8,14 @@ C'est donc tout naturellement que j'ai choisi de me spécialiser dans la manipul
 
 ---
 
-## Voici ce que je peux apporter :
+## Dans le cadre de mon activité :
 
 - 🧠 Je collecte, nettoie et importe des base de données de travail.
 - 📊 J’analyse des données complexes pour en tirer des insights utiles à la prise de décision à travers des tableaux de bord épurés.
 - 🐍 Je travaille avec **Excel**, **Python** (Pandas, NumPy, Matplotlib, Seaborn et Scikit-learn ), **SQL**, **Power BI**, et parfois **Tableau**.
 - 🔍 Je conçois des modèles (régression, clustering) pour explorer des patterns ou prédire des comportements ou des tendances.
 - 📈 Je m’intéresse à la **finance de marché**, aux ETF, aux cryptos et à l’**analyse quantitative**
-- 🌱 Je continue à **me former** assidument à de nouvelles méthodes et techniques via LinkedIn, YouTube, Udemy, OpenClassrooms, Kaggle, etc.
+- 🌱 Je continue à **me former** à de nouvelles méthodes et techniques via LinkedIn, YouTube, Udemy, OpenClassrooms, Kaggle, etc.
 
 ---
 
