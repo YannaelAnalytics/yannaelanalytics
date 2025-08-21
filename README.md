@@ -29,5 +29,5 @@ C'est donc tout naturellement que j'ai choisi de me spécialiser dans la manipul
 
 ## 📫 Me contacter
 
-- Email : simon.yannael@gmail.com
+- Email : yannael.simon.pro@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/yannael-simon/)
