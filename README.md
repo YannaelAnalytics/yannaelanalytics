@@ -1,6 +1,6 @@
 # Bonjour et bienvenue sur mon Portfolio Data 
 
-Je m'appelle Yannaël SIMON. Je suis Data Analyst, aspirant Data Scientist, passionné de **finance**, d’**analyse de données** et d'**automobile**. C'est au cours de mon Master en Marketing Stratégique effectué en alternance chez JCDecaux, que je me suis découvert un véritable goût pour la Data et sa puissance sur le monde qui nous entoure.
+Je m'appelle Yannaël SIMON, je suis Data Analyst, aspirant Data Scientist et passionné de **finance**, d’**analyse de données** et d'**automobile**. C'est au cours de mon Master en Marketing Stratégique effectué en alternance chez JCDecaux, que je me suis découvert un véritable goût pour la Data et sa puissance sur le monde qui nous entoure.
 
 J'ai d'ailleurs réalisé en 2022 mon mémoire sur l'Impact de l'IA sur la performance des Entreprises disponible dans la liste des projets si cela vous intéresse.
 
